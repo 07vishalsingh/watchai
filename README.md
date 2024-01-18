@@ -5,12 +5,11 @@
 
 Welcome to our AI-powered web application built with Next.js 14, featuring people detection and recording using ShadcnUI. This project leverages cutting-edge technologies to provide a robust solution for monitoring and recording people in a given environment.
 
-![Web App Preview](./screenshots/app-preview.png)
+
 # Watchai
 
 Welcome to Watchai, a modern web application that brings together the world of watches and technology. Explore, discover, and stay updated on the latest trends in the watch industry.
 
-![Watchai Preview](./screenshots/home.png)
 
 ...
 
@@ -42,7 +41,7 @@ Follow these steps to set up and run the project locally:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/07vishalsingh/watchai
 Install Dependencies:
 
 bash
